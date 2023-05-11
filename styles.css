@@ -16,7 +16,9 @@ body {
     font-family: 'gilroy-light', 'gilroy-bold', 'Homemade Apple', cursive;
     margin: 0;
 }
-
+img {
+    display: block;
+}
 .header {
     display: flex;
     justify-content: space-between;
